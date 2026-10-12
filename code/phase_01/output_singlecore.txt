@@ -1,0 +1,24 @@
+=========
+Algorithm: RM
+Cores: 1
+Completed Jobs: 17
+Deadline Misses: 0
+CPU Utilization: 83.33%
+Core 1 Schedule:
+T1 T3 T2 T2 T1 T2 IDLE T3 T1 T2 T2 T2 T1 IDLE T3 IDLE T1 T2 T2 T2 T1 T3 IDLE IDLE T1 T2 T2 T2 T1 T3
+=========
+Algorithm: DM
+Cores: 1
+Completed Jobs: 17
+Deadline Misses: 0
+CPU Utilization: 83.33%
+Core 1 Schedule:
+T1 T2 T2 T2 T1 T3 IDLE T3 T1 T2 T2 T2 T1 IDLE T3 IDLE T1 T2 T2 T2 T1 T3 IDLE IDLE T1 T2 T2 T2 T1 T3
+=========
+Algorithm: EDF
+Cores: 1
+Completed Jobs: 17
+Deadline Misses: 0
+CPU Utilization: 83.33%
+Core 1 Schedule:
+T1 T2 T2 T2 T3 T1 IDLE T3 T1 T2 T2 T2 T1 IDLE T3 IDLE T1 T2 T2 T2 T1 T3 IDLE IDLE T1 T2 T2 T2 T1 T3
